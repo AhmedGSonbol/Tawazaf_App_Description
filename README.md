@@ -2,6 +2,9 @@
 Tawazaf App is a professional networking platform connecting employees and companies. Employees can create profiles, upload CVs and videos, showcase skills, and explore job opportunities. Companies can subscribe to plans to post jobs with detailed requirements and connect with candidates via real-time chat, streamlining the hiring process.
 
 
+- APK Download :- https://drive.google.com/file/d/1jZtfZTIyag2KJHtGt3lmfk_SUnL2d0UN/view?usp=sharing
+
+
 - Application Images :-
 
 <div display="grid" grid-auto-flow="column" align="center">
